@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sijo Xavier 
 - 👀 I’m interested in software development using C# .Net, Docker, javascript, Azure, Kubernets
-- 🌱 I’m currently learning C, ReactJS
+- 🌱 I’m currently learning C, ReactJS, NodeJs and Typescript
 - 💞️ I’m looking to collaborate on any projects that can leverage my skillset
 - 📫 you can reach me @ sijo.xavier2@gmail.com, https://www.linkedin.com/in/sijo-xavier-a168289a/
 
